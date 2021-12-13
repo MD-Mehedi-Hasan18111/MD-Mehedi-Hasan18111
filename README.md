@@ -1,6 +1,6 @@
-![Front End Developer || MERN Stack Developer](https://scontent.fcgp6-1.fna.fbcdn.net/v/t1.6435-9/196171387_1158181881348085_3967796796384525888_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=e3f864&_nc_ohc=u6sxE3jwC4MAX-AUnC-&_nc_ht=scontent.fcgp6-1.fna&oh=e0a3ef69a37cfac4729061f9cf9ee73e&oe=61DDAD86)
 ### Hi there 👋, I am MD Mehedi Hasan
 #### Front End Developer || MERN Stack Developer
+![Front End Developer || MERN Stack Developer](https://www.linkedin.com/in/md-mehedi11/detail/background-image/)
 
 I am a Front-end Developer. I love technology and want to explore it. I want to be a software engineer. My dedication and hard work will bring me to success. I am doing competitive programming. I am improved my logical thinking by problem solving. I did problem solving on Hacker Rank online judge and codeforces. I hope this is benefited for me to the future for developed skill.
 
@@ -19,8 +19,6 @@ Skills: HTML, CSS, Bootstrap, JavaScript, React JS, React-Bootstrap, Material UI
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MD-Mehedi-Hasan18111)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MD-Mehedi-Hasan18111)  
-
-![GitHub metrics](https://metrics.lecoq.io/MD-Mehedi-Hasan18111)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MD-Mehedi-Hasan18111)  
 
