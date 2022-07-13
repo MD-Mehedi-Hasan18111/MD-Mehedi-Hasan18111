@@ -8,10 +8,12 @@
 <h2>My Expart Skills Stack:</h2>
 - JavaScript
 - React JS
+- Next JS
+- Tailwind CSS
 - Redux
 - Bootstrap
 - Material UI
-- Firebase
+- Firebase Authentication
 <br /><br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-mehedi-hasan18111&label=Profile%20views&color=0e75b6&style=flat" alt="md-mehedi-hasan18111" /> </p>
 
