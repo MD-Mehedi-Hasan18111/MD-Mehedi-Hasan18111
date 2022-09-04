@@ -10,14 +10,13 @@
 - React JS
 - Next JS
 - Tailwind CSS
-- Redux
 - Bootstrap
 - Material UI
-- Firebase Authentication
+- Firebase
 <br /><br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-mehedi-hasan18111&label=Profile%20views&color=0e75b6&style=flat" alt="md-mehedi-hasan18111" /> </p>
 
-- 🌱 I’m currently learning **Node JS and Express JS**
+- 🌱 I’m currently learning **Redux And Typescript**
 
 - 👨‍💻 All of my projects are available at [https://md-mehedi-hasan-portfolio.netlify.app/](https://md-mehedi-hasan-portfolio.netlify.app/)
 
