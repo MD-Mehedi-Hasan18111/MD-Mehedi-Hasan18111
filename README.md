@@ -13,6 +13,8 @@
   <li>Next JS</li>
   <li>Tailwind</li>
   <li>Bootstrap</li>
+  <li>Redux</li>
+  <li>RTK Query</li>
 </ul>
 <br /><br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-mehedi-hasan18111&label=Profile%20views&color=0e75b6&style=flat" alt="md-mehedi-hasan18111" /> </p>
