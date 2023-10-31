@@ -5,14 +5,15 @@
 <h2>About me:</h2>
 <p style="text-align: justify;">I am a Front End Developer. I completed my education from Chittagong Polytechnic Institute of Computer Technology Department. I love technology and want to explore more. I want to be a frontend expert. My dedication and hard work will bring me to success. I am doing competitive programming as well. I am improved my logical thinking with problem solving. I am doing problem solving on Hacker Rank online judge and codeforces. I hope this is benefited for me to the future for developed my analytical skills.</p>
 
-<h2>My Expart Skills Stack:</h2>
-- JavaScript
-- TypeScript
-- React JS
-- Next JS
-- Tailwind CSS
-- Bootstrap
-- Firebase
+<h2>Primary Skills:</h2>
+<ul>
+  <li>JavaScript</li>
+  <li>TypeScript</li>
+  <li>React JS</li>
+  <li>Next JS</li>
+  <li>Tailwind</li>
+  <li>Bootstrap</li>
+</ul>
 <br /><br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-mehedi-hasan18111&label=Profile%20views&color=0e75b6&style=flat" alt="md-mehedi-hasan18111" /> </p>
 
