@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm MD Mehedi Hasan</h1>
-<h3 align="center">A passionate Frontend developer and MERN stack developer from Bangladesh</h3>
+<h3 align="center">Passionate about React and Next.js</h3>
 <img width="100%" src="https://media-exp1.licdn.com/dms/image/C4D16AQHPKXDRnUtBOA/profile-displaybackgroundimage-shrink_350_1400/0/1638312150099?e=1645660800&v=beta&t=rTQp7gwJ61kkEvFAJiGhk7XNVH1Lj_4fbpTClhw8d1A" alt="" />
 
 <h2>About me:</h2>
-<p style="text-align: justify;">I am a Front End Developer. I completed my education from Chittagong Polytechnic Institute of Computer Technology Department. I love technology and want to explore it. I want to be a software engineer. My dedication and hard work will bring me to success. I am doing competitive programming. I am improved my logical thinking by problem solving. I did problem solving on Hacker Rank online judge and codeforces. I hope this is benefited for me to the future for developed skill.</p>
+<p style="text-align: justify;">I am a Front End Developer. I completed my education from Chittagong Polytechnic Institute of Computer Technology Department. I love technology and want to explore more. I want to be a frontend expert. My dedication and hard work will bring me to success. I am doing competitive programming as well. I am improved my logical thinking with problem solving. I am doing problem solving on Hacker Rank online judge and codeforces. I hope this is benefited for me to the future for developed my analytical skills.</p>
 
 <h2>My Expart Skills Stack:</h2>
 - JavaScript
+- TypeScript
 - React JS
 - Next JS
 - Tailwind CSS
 - Bootstrap
-- Material UI
 - Firebase
 <br /><br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-mehedi-hasan18111&label=Profile%20views&color=0e75b6&style=flat" alt="md-mehedi-hasan18111" /> </p>
